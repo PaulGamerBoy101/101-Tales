@@ -21,14 +21,14 @@
     "forge": {
       "packagerConfig": {
         "icon": "./appicons/ninetails",
-        "name": "Ninetails",
-        "executableName": "ninetails"
+        "name": "101 Tales",
+        "executableName": "101-Tales"
       },
       "makers": [
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "ninetails"
+            "name": "101-Tales"
           }
         },
         {
