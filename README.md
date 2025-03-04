@@ -17,7 +17,7 @@ New things are constantly being added to Ninetails, so be on the lookout for new
 ## Development
 ```bash
 # Clone the repo
-git clone https://github.com/MystPi/ninetails.git
+git clone https://github.com/PaulGamerBoy101/101-Tales.git
 cd ninetails
 
 # Install the dependencies
@@ -31,7 +31,7 @@ npm run dev
 ## Building the app
 ```bash
 # Clone the repo
-git clone https://github.com/MystPi/ninetails.git
+git clone https://github.com/PaulGamerBoy101/101-Tales.git
 cd ninetails
 
 # Install the dependencies
