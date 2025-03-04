@@ -57,9 +57,7 @@
   .glass {
     @apply bg-opacity-75 backdrop-blur-xl border border-gray-700;
   }
-}
 
-@layer utilities {
   .neon-text {
     text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 15px #00ff00;
   }
@@ -67,12 +65,11 @@
   .neon-border {
     box-shadow: 0 0 10px #00ff00;
   }
-}
 
-@layer utilities {
   .bg-neon-green {
     background-color: #00ff00;
   }
+
   .text-neon-green {
     color: #00ff00;
   }
