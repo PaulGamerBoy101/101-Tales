@@ -9,45 +9,36 @@
     -webkit-app-region: no-drag;
   }
 
-  body {
-    @apply bg-black text-gray-200;
-  }
-
   .light-img {
-    @apply opacity-70;
+    @apply opacity-50;
   }
 
   [id^=tab]>img {
-    @apply inline w-4 h-4 mr-2 filter drop-shadow-md;
+    @apply inline w-4 h-4 mr-2;
   }
 
   ::selection {
-    @apply text-black bg-neon-green;
+    @apply text-white bg-green-500;
   }
 }
 
 @layer components {
   .tab {
-    @apply min-w-[4rem] flex items-center flex-1 max-w-xs px-3 py-1 overflow-hidden text-sm text-neon-green bg-gray-900 border border-neon-green rounded-md cursor-pointer whitespace-nowrap transition-all duration-200 ease-in-out;
-  }
-
-  .tab:hover {
-    @apply bg-gray-800 shadow-[0_0_10px_#00ff00];
+    @apply min-w-[4rem] flex items-center flex-1 max-w-xs px-2 py-1 overflow-hidden text-sm text-gray-700 bg-gray-100 hover:bg-gray-200 hover:transition rounded cursor-default whitespace-nowrap;
   }
 
   .active-tab {
-    @apply min-w-[4rem] flex items-center flex-1 max-w-xs px-3 py-1 overflow-hidden text-sm text-black bg-neon-green border border-neon-green rounded-md cursor-pointer whitespace-nowrap transition-all duration-200 ease-in-out;
-    box-shadow: 0 0 15px #00ff00;
+    @apply min-w-[4rem] flex items-center flex-1 max-w-xs px-2 py-1 overflow-hidden text-sm text-white bg-green-500 rounded cursor-default whitespace-nowrap;
   }
 
   .view {
-    @apply w-full h-full bg-gray-950 border border-gray-800 rounded-lg shadow-lg;
+    @apply w-full h-full;
   }
 }
 
 @layer utilities {
   .hoverable:hover {
-    @apply bg-gray-800 text-neon-green;
+    @apply bg-gray-200;
   }
 
   .no-scrollbar::-webkit-scrollbar {
@@ -55,22 +46,6 @@
   }
 
   .glass {
-    @apply bg-opacity-75 backdrop-blur-xl border border-gray-700;
-  }
-
-  .neon-text {
-    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 15px #00ff00;
-  }
-  
-  .neon-border {
-    box-shadow: 0 0 10px #00ff00;
-  }
-
-  .bg-neon-green {
-    background-color: #00ff00;
-  }
-
-  .text-neon-green {
-    color: #00ff00;
+    @apply bg-opacity-75 backdrop-blur-lg;
   }
 }
