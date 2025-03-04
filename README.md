@@ -18,7 +18,7 @@ New things are constantly being added to Ninetails, so be on the lookout for new
 ```bash
 # Clone the repo
 git clone https://github.com/PaulGamerBoy101/101-Tales.git
-cd ninetails
+cd 101-Tales
 
 # Install the dependencies
 npm install
@@ -32,7 +32,7 @@ npm run dev
 ```bash
 # Clone the repo
 git clone https://github.com/PaulGamerBoy101/101-Tales.git
-cd ninetails
+cd 101-Tales
 
 # Install the dependencies
 npm install
