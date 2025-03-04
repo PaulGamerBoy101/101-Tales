@@ -1,4 +1,5 @@
-> # 101 Tales is a Fork of the Web Browser Ninetails Made by Github User "MystPi"
+# 101 Tales is a Fork of the Web Browser Ninetails Made by Github User "MystPi"
+> <b>Notice:</b> Not Every Instance of "Ninetails" in the Browser has Been Switched over to "101 Tales" Yet!
 
 <img width="1500" alt="101 Tales Banner" src="https://github.com/PaulGamerBoy101/101-Tales/blob/9ae08d1046fc4d5ed8ee61e3404e28754485c00e/101%20Tales%20Fast%2C%20Private%2C%20Fork%20of%20Ninetails.png">
 
@@ -23,6 +24,9 @@ cd 101-Tales
 # Install the dependencies
 npm install
 
+# Update tailwind
+npm update tailwindcss
+
 # Start the app
 npm run dev
 # This runs `npm start` and `npm run tailwind` concurrently
@@ -36,6 +40,9 @@ cd 101-Tales
 
 # Install the dependencies
 npm install
+
+# Update tailwind
+npm update tailwindcss
 
 # Make the app
 npm run make
