@@ -1,14 +1,7 @@
-# 101 Tales is a Fork of the Web Browser Ninetails Made by Github User "MystPi"
+> # 101 Tales is a Fork of the Web Browser Ninetails Made by Github User "MystPi"
 
-<img width="1500" alt="Ninetails' banner" src="[https://user-images.githubusercontent.com/86574651/147876286-e0f179a9-b456-4c82-b672-380c0a30da3f.png](https://raw.githubusercontent.com/PaulGamerBoy101/101-Tales/refs/heads/main/101%20Tales%20Fast%2C%20Private%2C%20Fork%20of%20Ninetails.png)">
+<img width="1500" alt="101 Tales Banner" src="https://github.com/PaulGamerBoy101/101-Tales/blob/9ae08d1046fc4d5ed8ee61e3404e28754485c00e/101%20Tales%20Fast%2C%20Private%2C%20Fork%20of%20Ninetails.png">
 
-<p align="center">
-  <img src="https://img.shields.io/github/v/release/mystpi/ninetails?style=for-the-badge">
-  <img src="https://img.shields.io/github/languages/top/mystpi/ninetails?color=yellow&style=for-the-badge">
-  <img src="https://img.shields.io/github/downloads/mystpi/ninetails/total?style=for-the-badge">
-  <br>
-  <a href="https://www.producthunt.com/posts/ninetails?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ninetails" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=322567&theme=light" alt="Ninetails - A private, fast, and beautiful web browser | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-</p>
 
 Ninetails is a private, fast, and beautiful web browser that's created with Electron and styled with Tailwind CSS. Enjoy a clean and unique experience while surfing the web.
 
