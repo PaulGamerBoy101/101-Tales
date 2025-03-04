@@ -1,6 +1,6 @@
-# Ninetails has been archived. [Learn more here.](https://scratch.mit.edu/discuss/post/6397247/)
+# 101 Tales is a Fork of the Web Browser Ninetails Made by Github User "MystPi"
 
-<img width="1500" alt="Ninetails' banner" src="https://user-images.githubusercontent.com/86574651/147876286-e0f179a9-b456-4c82-b672-380c0a30da3f.png">
+<img width="1500" alt="Ninetails' banner" src="[https://user-images.githubusercontent.com/86574651/147876286-e0f179a9-b456-4c82-b672-380c0a30da3f.png](https://raw.githubusercontent.com/PaulGamerBoy101/101-Tales/refs/heads/main/101%20Tales%20Fast%2C%20Private%2C%20Fork%20of%20Ninetails.png)">
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/mystpi/ninetails?style=for-the-badge">
