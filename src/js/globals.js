@@ -14,13 +14,13 @@ const click = (id, cb) => byId(id).addEventListener('click', (e) => {
 });
 
 /** The default home page for Ninetails */
-const defaultHome = 'https://mystpi.github.io/ninetails/';
+const defaultHome = 'https://custom-new-tab-page-12935782.codehs.me/index.html';
 
 /** Ninetails' GitHub repository */
-const githubRepo = 'https://github.com/mystpi/ninetails/';
+const githubRepo = 'https://github.com/PaulGamerBoy101/101-Tales/';
 
 /** The default search engine. Also make a PR in the gh-pages (https://github.com/MystPi/ninetails/tree/gh-pages) branch if you're changing the default */
-const defaultEngine = 'https://www.startpage.com/sp/search?q=';
+const defaultEngine = 'https://www.google.com/search?q=';
 
 /** The current webview element */
 let view;
