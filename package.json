@@ -1,7 +1,7 @@
 {
-  "name": "ninetails",
-  "productName": "Ninetails",
-  "version": "3.8.1",
+  "name": "101 Tales",
+  "productName": "101 Tales",
+  "version": "1.0.0",
   "description": "A private, fast, and beautiful web browser.",
   "main": "src/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "tailwind": "npx tailwindcss -i ./src/index.css -o ./src/tailwind.css --minify --watch"
   },
   "keywords": [],
-  "author": "MystPi",
+  "author": "OG Author is MystPi, this Fork is Made by PaulGamerBoy101",
   "license": "MIT",
   "config": {
     "forge": {
