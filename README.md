@@ -8,12 +8,12 @@
 
 In this age where many browsers track their users, it's nice to have a break from telemetry and browse privately. "101 Tales never collects any data, and is 100% telemetry free!
 
-I Hope to Add New Features to "101 Tales", as of Now the Only thing Different From Ninetails is a New Color Sceme & Home Page.
+I Hope to Add New Features to "101 Tales", as of Now the Only thing Different From Ninetails is a New Logo, Color Scheme & Home Page.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/86574651/158018722-68023be6-b8a4-43b8-b1c9-16bdf886c744.png)
+![image](https://github.com/PaulGamerBoy101/101-Tales/blob/1fcdfc376e744da0fe81d588d2c81a810196b600/Screenshot.png)
 
-![image](https://user-images.githubusercontent.com/86574651/158018748-45ddc408-30b9-4baf-8ee0-4cad28fdbd48.png)
+
 
 ## Development
 ```bash
