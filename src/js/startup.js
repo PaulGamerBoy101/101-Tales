@@ -13,6 +13,8 @@ fetch('../package.json')
       });
   });
 
+    document.title = "101 Tales"; 
+
 
 const sortable = Sortable.create(byId('tabbar'), {
   animation: 150
